@@ -1,0 +1,24 @@
+.container{
+    background-color: aqua;
+    width: fit-content;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    margin: 100px 100px 100px 100px;
+    padding: 0;
+}
+/* .container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+} */
+/* .container{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+} */
